@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dakodako
 - 👀 I’m interested in medical imaging, basically any imaging techniques.
 - 🌱 I’m currently learning magnetic resonance imaging.
-- 💞️ I’m looking to collaborate on any interesting medical imaging projects.
+- 💞️ I’m looking for collaboration on any interesting medical imaging projects.
 - 📫 How to reach me: chid@student.unimelb.edu.au
 
 <!---
